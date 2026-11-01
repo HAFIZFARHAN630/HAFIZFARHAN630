@@ -54,8 +54,8 @@ I am a Technology Founder, Systems Architect, and Wireless Network Engineer buil
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAFIZFARHAN630&show_icons=true&theme=dark" alt="Farhan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZFARHAN630&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HAFIZFARHAN630&show_icons=true&theme=dark" alt="Farhan's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZFARHAN630&layout=compact&theme=dark" alt="Top Languages" width="300" />
 </p>
 
 ---
