@@ -25,7 +25,7 @@ I am a Technology Founder, Systems Architect, and Wireless Network Engineer buil
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### **AI & Automation**
-![Python](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
@@ -51,16 +51,12 @@ I am a Technology Founder, Systems Architect, and Wireless Network Engineer buil
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HAFIZFARHAN630&theme=onedark&column=6" alt="Trophies" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAFIZFARHAN630&theme=dark" alt="GitHub Streak" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAFIZFARHAN630&theme=dark" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZFARHAN630&theme=react-dark" alt="Activity Graph" width="48%" />
-</p>
 ---
 
 ### 🔗 Connect With Me
