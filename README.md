@@ -53,12 +53,14 @@ I am a Technology Founder, Systems Architect, and Wireless Network Engineer buil
 
 ### 📊 GitHub Analytics
 
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZFARHAN630&theme=react-dark" alt="Activity Graph" width="100%" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HAFIZFARHAN630&theme=onedark&column=6" alt="Trophies" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAFIZFARHAN630&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZFARHAN630&theme=react-dark" alt="Activity Graph" width="48%" />
+</p>
 ---
 
 ### 🔗 Connect With Me
